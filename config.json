@@ -1,0 +1,28 @@
+{
+    "packageName": {
+        "credits": "@ORCAMODSINDO",
+        "showDialog": true,
+        "title": "ᴍᴏᴅ ʙʏ ᴏʀᴄᴀᴍᴏᴅsɪɴᴅᴏ",
+        "message": "https://raw.githubusercontent.com/orcaplus/updater/refs/heads/main/apps.html",
+        "showNegativeButton": true,
+        "NegativeButtonText": "Join Channel",
+        "NegativeButtonUrl": "updater",
+        "showPositiveButton": true,
+        "positiveButtonText": "Mungkin Nanti",
+        "maxShowCount": 3,
+        "controlByShowCount": false,
+ 
+        "updateConfig": {
+            "updateMonitor": false,
+            "requiredVersion": "9999",
+            "requiredVersionCode": 126,
+            "title": "ᴍᴏᴅ ʙʏ ᴏʀᴄᴀᴍᴏᴅsɪɴᴅᴏ",
+            "message": "https://raw.githubusercontent.com/Paste your HTML path",
+            "showNegativeButton": true,
+            "NegativeButtonText": "update",
+            "NegativeButtonUrl": "https://t.me/ORCAMODSINDO",
+            "showPositiveButton": true,
+            "positiveButtonText": "Maybe Later"
+        }
+    }
+}
